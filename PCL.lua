@@ -1,4 +1,4 @@
 repeat
    wait()
 until game:IsLoaded()
-loadstring(game:HttpGet("https://pastebin.com/raw/3QZJm10j"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nseinkkk/universal-script/main/PCL"))()
